@@ -1,0 +1,7 @@
+setup.py
+usdtorub/__init__.py
+usdtorub/main.py
+usdtorub.egg-info/PKG-INFO
+usdtorub.egg-info/SOURCES.txt
+usdtorub.egg-info/dependency_links.txt
+usdtorub.egg-info/top_level.txt
